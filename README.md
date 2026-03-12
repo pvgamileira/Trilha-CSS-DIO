@@ -1,20 +1,33 @@
-# Trilha de CSS --Desafio1 - Digital Innovation One (DIO)
+# Trilha de CSS - Desafio 1 (DIO)
 
-Este é um projeto prático desenvolvido durante a trilha de CSS da DIO. O objetivo principal foi criar uma landing page institucional focada na apresentação de um curso, aplicando conceitos fundamentais de estilização e layout.
+Projeto prático de uma landing page institucional desenvolvida para apresentar um curso, focando em conceitos fundamentais de estilização e layout.
 
-## 🛠 Tecnologias
-* HTML5 (Estrutura semântica)
-* CSS3 (Estilização pura)
-* Google Fonts (Fonte Raleway)
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status do Projeto">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="Licença">
+</div>
 
-## 📖 O que foi praticado
-* **Reset de Estilos:** Uso de um arquivo `reset.css` para padronizar a renderização entre navegadores.
-* **Layout com Flexbox:** Alinhamento centralizado de banners, logos e listas de módulos.
-* **Fundo e Efeitos:** Aplicação de gradientes lineares (`linear-gradient`) sobre imagens de fundo, uso de `background-attachment: fixed` para efeito de rolagem e `background-clip: text` para textos coloridos.
-* **Estilização de Componentes:** Criação de botões personalizados, bordas com gradiente e sombras internas (`box-shadow: inset`).
+<br>
 
-## 📂 Estrutura do Projeto
-* `index.html`: Conteúdo da página.
-* `assets/css/`: Folhas de estilo (`styles.css` e `reset.css`).
-* `assets/images/`: Assets visuais utilizados (logos, banners e ícones).
+## 📸 Screenshot
+<img width="1352" height="556" alt="PrimeiraLandingPage" src="https://github.com/user-attachments/assets/1c845020-1d2f-44a6-a237-dfa7e1fed273" />
+![Screenshot do Projeto]()
 
+## 💻 Tecnologias Usadas
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+<br>
+
+*Nota: Tipografia implementada utilizando o Google Fonts (Fonte Raleway).*
+
+## 🚀 Como rodar localmente
+
+Para rodar este projeto em sua máquina, os passos são bem simples:
+
+1. **Pré-requisitos:** Apenas um navegador web atualizado.
+2. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/pvgamileira/Trilha-CSS-DIO
