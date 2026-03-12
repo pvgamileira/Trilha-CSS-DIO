@@ -31,3 +31,5 @@ Para rodar este projeto em sua máquina, os passos são bem simples:
 2. **Clone o repositório:**
    ```bash
    git clone https://github.com/pvgamileira/Trilha-CSS-DIO
+
+2. **Link do projeto:** https://pvgamileira.github.io/Trilha-CSS-DIO/
